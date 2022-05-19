@@ -181,6 +181,10 @@
         {
             "key": "outboundservices.monitoring.enabled",
             "value": "true"
+        },
+        {
+            "key":"configFile",
+            "value":"/opt/hybris/bin/custom/extension/resources/update-config.json"
         }
     ],
     "aspects": [
