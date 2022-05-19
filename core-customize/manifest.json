@@ -184,7 +184,7 @@
         },
         {
             "key":"configFile",
-            "value":"/opt/hybris/bin/custom/extension/resources/update-config.json"
+            "value":"/opt/hybris/bin/custom/tiger/resources/update-config.json"
         }
     ],
     "aspects": [
