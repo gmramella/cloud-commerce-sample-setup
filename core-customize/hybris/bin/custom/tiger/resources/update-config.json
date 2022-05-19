@@ -1,0 +1,38 @@
+{
+  "init": "Go",
+  "initmethod": "update",
+  "essential": "true",
+  "localizetypes": "true",
+  "basecommerce_create geocoding cron job": [
+    "no"
+  ],
+  "modelt_enabled": [
+    "yes"
+  ],
+  "solrcloudbackup_defaults": [
+    "false"
+  ],
+  "apparelstore_importCoreData": [
+    "yes"
+  ],
+  "apparelstore_importSampleData": [
+    "yes"
+  ],
+  "apparelstore_activateSolrCronJobs": [
+    "yes"
+  ],
+  "electronicsstore_importCoreData": [
+    "yes"
+  ],
+  "electronicsstore_importSampleData": [
+    "yes"
+  ],
+  "electronicsstore_activateSolrCronJobs": [
+    "yes"
+  ],
+  "yacceleratorcore_accessRights": [
+    "yes"
+  ],
+  "filteredPatches": "true",
+  "teste": "teste"
+}
